@@ -2,7 +2,11 @@
 $ffmpeg_path = 'ffmpeg'; //or: /usr/bin/ffmpeg - depends on your installation
 $filename= 'Wildlife.webm'; 
 //phpinfo(); 234
+<<<<<<< HEAD
+
+=======
 //phpinfo();123
+>>>>>>> new
 
 /*
 if (file_exists($vid)) {
